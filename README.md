@@ -2,8 +2,7 @@
 
 Prompter is a premium SaaS DevTools platform engineered to help principal architects and senior developers design, formalize, and deploy highly structured schema-driven prompts.
 
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/5eb42f28-6dcb-426d-afe1-f3e5e7a202eb" />
- 
+![Dashboard Preview](Images/4.png)
 
 
 > **Features**
@@ -14,21 +13,9 @@ Prompter is a premium SaaS DevTools platform engineered to help principal archit
 - **Enterprise Authenticated:** Built with robust JWT tokens and Row-Level-Security (RLS) policies targeting 0-trust deployments via Supabase.
 - **Dynamic & Edge-Ready UI:** React 19 + Tailwind v4 + Vite stack packed with rich mesh gradients, micro-animations, and glassmorphism.
 
-<p align="center">
-  <a href="https://prompter-v1.netlify.app/">
-    <img src="https://github.com/user-attachments/assets/3d2fb56e-c26c-4626-aeb7-fa77a213e0c5" alt="Prompter-v1 Preview">
-  </a>
-</p>
-<p align="center">
-  <a href="https://prompter-v1.netlify.app/">
-    <img src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" alt="Prompter-v1 Preview">
-  </a>
-</p>
-<p align="center">
-  <a href="https://prompter-v1.netlify.app/">
-    <img src="https://github.com/user-attachments/assets/431bfe06-5356-4b7d-b742-369230215e20" alt="Prompter-v1 Preview">
-  </a>
-</p>
+![Dashboard Preview](Images/3.png)
+![Dashboard Preview](Images/2.png)
+![Dashboard Preview](Images/1.png)
 
 
 > **Tech Stack**
@@ -79,12 +66,7 @@ npm run dev
 
 
 >**Component Showcase**
-<p align="center">
-  <a href="https://prompter-v1.netlify.app/">
-    <img src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" alt="Prompter-v1 Preview">
-  </a>
-</p>
-
+![Dashboard Preview](Images/2.png)
 
 >**Architecture**
 - `<Sidebar />`: Fully real-time bounded project tracking component.

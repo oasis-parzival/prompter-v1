@@ -5,6 +5,7 @@ Prompter is a premium SaaS DevTools platform engineered to help principal archit
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/5eb42f28-6dcb-426d-afe1-f3e5e7a202eb" />
  
 
+
 > **Features**
 
 - **Architecture Engine:** Define high-fidelity, highly reproducible LLM prompt architectures.
@@ -13,10 +14,21 @@ Prompter is a premium SaaS DevTools platform engineered to help principal archit
 - **Enterprise Authenticated:** Built with robust JWT tokens and Row-Level-Security (RLS) policies targeting 0-trust deployments via Supabase.
 - **Dynamic & Edge-Ready UI:** React 19 + Tailwind v4 + Vite stack packed with rich mesh gradients, micro-animations, and glassmorphism.
 
-<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/3d2fb56e-c26c-4626-aeb7-fa77a213e0c5" />
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" />
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/431bfe06-5356-4b7d-b742-369230215e20" />
-
+<p align="center">
+  <a href="https://prompter-v1.netlify.app/">
+    <img src="https://github.com/user-attachments/assets/3d2fb56e-c26c-4626-aeb7-fa77a213e0c5" alt="Prompter-v1 Preview">
+  </a>
+</p>
+<p align="center">
+  <a href="https://prompter-v1.netlify.app/">
+    <img src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" alt="Prompter-v1 Preview">
+  </a>
+</p>
+<p align="center">
+  <a href="https://prompter-v1.netlify.app/">
+    <img src="https://github.com/user-attachments/assets/431bfe06-5356-4b7d-b742-369230215e20" alt="Prompter-v1 Preview">
+  </a>
+</p>
 
 
 > **Tech Stack**
@@ -67,7 +79,11 @@ npm run dev
 
 
 >**Component Showcase**
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" />
+<p align="center">
+  <a href="https://prompter-v1.netlify.app/">
+    <img src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" alt="Prompter-v1 Preview">
+  </a>
+</p>
 
 
 >**Architecture**

@@ -1,10 +1,9 @@
-# ❖ Prompter
-
 > **Architecting the future of prompt-driven infrastructure.**
 
 Prompter is a premium SaaS DevTools platform engineered to help principal architects and senior developers design, formalize, and deploy highly structured schema-driven prompts.
 
-![Prompter Hero Image](./public/screenshot-hero.png) <!-- Add your high-res hero screenshot here -->
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/5eb42f28-6dcb-426d-afe1-f3e5e7a202eb" />
+ 
 
 ## 🚀 Features
 
@@ -14,7 +13,9 @@ Prompter is a premium SaaS DevTools platform engineered to help principal archit
 - **Enterprise Authenticated:** Built with robust JWT tokens and Row-Level-Security (RLS) policies targeting 0-trust deployments via Supabase.
 - **Dynamic & Edge-Ready UI:** React 19 + Tailwind v4 + Vite stack packed with rich mesh gradients, micro-animations, and glassmorphism.
 
-![Prompter Dashboard Overview](./public/screenshot-dashboard.png) <!-- Add your dashboard screenshot here -->
+<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/3d2fb56e-c26c-4626-aeb7-fa77a213e0c5" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/431bfe06-5356-4b7d-b742-369230215e20" />
 
 ## 🛠 Tech Stack
 
@@ -30,7 +31,7 @@ Prompter is a premium SaaS DevTools platform engineered to help principal archit
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/prompter.git
+git clone https://github.com/oasis-parzival/Prompter.git
 cd prompter
 ```
 
@@ -57,8 +58,8 @@ npm run dev
 ```
 
 ## 📸 Component Showcase
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/db4415a9-dca7-42d8-b93c-4fb3b311bf87" />
 
-![Prompter Showcase UI](./public/screenshot-showcase.png) <!-- Add your showcase page or generation result screenshot here -->
 
 ### Architecture
 - `<Sidebar />`: Fully real-time bounded project tracking component.
